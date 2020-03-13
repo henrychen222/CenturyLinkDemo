@@ -1,9 +1,10 @@
-
 --- Introduction:
+
 This Demo is a Spring Boot Application for building Restful Apis,
 build from scratch here: https://start.spring.io/
 
 --- How to use this Demo:
+
 (1) mvn clean install
 
 (2) run CenturyLinkDemoApplication
@@ -24,6 +25,7 @@ build from scratch here: https://start.spring.io/
 
 
 --- Improvement:
+
     (1) Use Gson/Jackson instead of org.json
     
     (2) Apply Google Guice @inject compared with @Autowired (DI)
